@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AdailyNote/2024-01-02.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,6 +148,16 @@
   },
   "active": "3de566d932373a37",
   "lastOpenFiles": [
+    "docs/_coverpage.md",
+    "docs/ca.md",
+    "docs/新建 Text Document.txt",
+    "docs/_sidebar.md",
+    "docs/_sidebar.txt",
+    "docs/index.html",
+    "docs/README.md",
+    "docs",
+    "CS/Git/Git and Github for Beginners.md",
+    "AdailyNote/2024-01-02.md",
     "CS/2. 计算机操作系统/1.1.2  操作系统的四个特征.md",
     "Pasted image 20240103004733.png",
     "Pasted image 20240103004615.png",
@@ -166,8 +176,6 @@
     "CS/1. 计算机网络/2.  物理层/2.1.3  奈氏准则和香农定理.md",
     "CS/2. 计算机操作系统",
     "CS/3. 计算机组成原理",
-    "AdailyNote/2024-01-02.md",
-    "CS/Git/Git and Github for Beginners.md",
     "CS/4. 数据结构及算法/4.  字符串/3. 替换数字.md",
     "CS/1. 计算机网络/1. 认识计算机网络/1.1.3  标准化工作及其相关组织.md",
     "MATH/数值分析/2.1 插值法/2.5  Hermite( 埃尔米特 ) 插值.md",
@@ -186,13 +194,6 @@
     "MATH/实变函数/2. 集合的表示与运算.md",
     "MATH/实变函数/Zpicture/2. 集合的表示与运算",
     "MATH/实变函数/Zpicture",
-    "MATH/实变函数/1. 实变函数学什么.md",
-    "MATH/实变函数/Zpicture/1.实变函数学什么",
-    "MATH/数值分析/2.2 插值法图片/2.5",
-    "MATH/数值分析/2.2 插值法图片",
-    "MATH/近世代数",
-    "CS/1. 计算机网络/2.  物理层/2.1.4  编码与调制.md",
-    "CS/1. 计算机网络/2.  物理层/2.3  物理层设备.md",
     "未命名.canvas"
   ]
 }
