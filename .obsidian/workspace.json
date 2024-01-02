@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "d9a2632829114fea",
+    "type": "split",
+    "children": [
+      {
+        "id": "3472895eb56e269e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de566d932373a37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AdailyNote/2024-01-02.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f97fefc8ed2edb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5b8cfe1db8f296e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "127b9bce50b7cf0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbe697f672acc383",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed02e4b577cb45e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e42e7e3e06fbd47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f04cffb68359d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c737e647d8347f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AdailyNote/2024-01-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "edf4cc71fad70700",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AdailyNote/2024-01-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58bcabaf93f8aa30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "611862f1a61eaf5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AdailyNote/2024-01-02.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3de566d932373a37",
+  "lastOpenFiles": [
+    "CS/2. 计算机操作系统/1.1.2  操作系统的四个特征.md",
+    "Pasted image 20240103004733.png",
+    "Pasted image 20240103004615.png",
+    "CS/2. 计算机操作系统/1.1.1  操作系统的概念、功能.md",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103004323.png",
+    "CS/2. 计算机操作系统/Zpictures/Untitled.md",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1",
+    "CS/2. 计算机操作系统/Zpictures",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103004258.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103004130.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103004030.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103003843.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103003747.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103003625.png",
+    "CS/2. 计算机操作系统/Zpictures/1.1.1/Pasted image 20240103003503.png",
+    "CS/1. 计算机网络/2.  物理层/2.1.3  奈氏准则和香农定理.md",
+    "CS/2. 计算机操作系统",
+    "CS/3. 计算机组成原理",
+    "AdailyNote/2024-01-02.md",
+    "CS/Git/Git and Github for Beginners.md",
+    "CS/4. 数据结构及算法/4.  字符串/3. 替换数字.md",
+    "CS/1. 计算机网络/1. 认识计算机网络/1.1.3  标准化工作及其相关组织.md",
+    "MATH/数值分析/2.1 插值法/2.5  Hermite( 埃尔米特 ) 插值.md",
+    "CS/双指针法.md",
+    "CS/4. 数据结构及算法/3.  哈希表/7.  四数相加（二）.md",
+    "CS/4. 数据结构及算法/3.  哈希表/8.  赎金信.md",
+    "CS/4. 数据结构及算法/4.  字符串/2.  反转字符串（二）.md",
+    "迭代器.md",
+    "迭代器和指针的区别.md",
+    "CS/库函数.end( )的含义.md",
+    "CS/4. 数据结构及算法/4.  字符串/1.  反转字符串.md",
+    "CS/swap 函数的两种实现形式.md",
+    "CS/异或运算.md",
+    "CS/4. 数据结构及算法/2.  链表/反转链表.md",
+    "MATH/实变函数/3. 用集合描述性质的例子.md",
+    "MATH/实变函数/2. 集合的表示与运算.md",
+    "MATH/实变函数/Zpicture/2. 集合的表示与运算",
+    "MATH/实变函数/Zpicture",
+    "MATH/实变函数/1. 实变函数学什么.md",
+    "MATH/实变函数/Zpicture/1.实变函数学什么",
+    "MATH/数值分析/2.2 插值法图片/2.5",
+    "MATH/数值分析/2.2 插值法图片",
+    "MATH/近世代数",
+    "CS/1. 计算机网络/2.  物理层/2.1.4  编码与调制.md",
+    "CS/1. 计算机网络/2.  物理层/2.3  物理层设备.md",
+    "未命名.canvas"
+  ]
+}

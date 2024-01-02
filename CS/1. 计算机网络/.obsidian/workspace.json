@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "a91c0fb70462b955",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3fb3e28b8212fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b194022759a61a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.1.4  性能指标.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bb1ce90c02ba3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.2.1  分层结构、协议、接口、服务.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e683d32345fe4cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "626cc80f6e0c2924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e16235b48834eee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a4d100f70d06b87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de903580920e6319",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0bf6e5036d2e605",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff1ddbada33e7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "908761014bef4f8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1.2.1  分层结构、协议、接口、服务.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "679ee930d14adb0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1.2.1  分层结构、协议、接口、服务.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "998e1c8b653f7068",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd8dc194b7c48513",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1.2.1  分层结构、协议、接口、服务.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1bb1ce90c02ba3f5",
+  "lastOpenFiles": [
+    "1.1.4  性能指标.md",
+    "1.2.1  分层结构、协议、接口、服务.md",
+    "图片/Pasted image 20231231191126.png",
+    "图片",
+    "图片/Pasted image 20231231234530.png",
+    "图片/Pasted image 20231231234511.png",
+    "图片/Pasted image 20231231234122.png",
+    "图片/Pasted image 20231231214120.png",
+    "图片/Pasted image 20231231213850.png",
+    "图片/Pasted image 20231231212940.png",
+    "图片/Pasted image 20231231212600.png",
+    "图片/Pasted image 20231231211727.png",
+    "1.1.3  标准化工作及其相关组织.md",
+    "图片/Pasted image 20231231211041.png",
+    "1.1.2  组成和分类.md",
+    "1.1.1  概念和 功能.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
